@@ -199,7 +199,7 @@ Refreshing the page several times shows different container IDs, proving that re
 
 # 🎯 Learning Outcomes
 
-After completing this project, you will understand:
+After completing this project, we will understand:
 
 - 🐳 Docker Swarm Architecture
 - 🧩 Service Creation
@@ -212,10 +212,6 @@ After completing this project, you will understand:
 - 📊 Service Management
 - 🏗️ Container Orchestration
 
----
-
-# 💼 Interview Highlights
-
-You can explain this project as:
+--------------------------------------------------------
 
 > Developed a highly available containerized Flask application using Docker Swarm. Created a Swarm cluster, deployed the application as a replicated service, configured an overlay network for communication, demonstrated horizontal scaling from three to five replicas, verified built-in load balancing using the routing mesh, tested auto-healing by stopping a container, and performed rolling updates with zero downtime.
