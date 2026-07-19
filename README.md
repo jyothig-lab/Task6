@@ -18,7 +18,7 @@ Deploy and manage a clustered containerized application using **Docker Swarm** w
 task6-docker-swarm/
 │
 ├── 📁 app/
-│   ├── 📄 app.py                 # Flask Web Application
+│   ├── 📄 app.py                 # Flask Web Application(backend)
 │   ├── 📄 requirements.txt       # Python Dependencies
 │   └── 📄 Dockerfile             # Docker Image Configuration
 │
